@@ -1,4 +1,4 @@
-module GoMiniRETAPIWithMux
+module GoMiniRESTAPIWithMux
 
 go 1.18
 
